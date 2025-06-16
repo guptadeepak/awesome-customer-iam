@@ -1,8 +1,8 @@
-# 🛡️ Awesome CIAM [Customer Identity & Access Management]
+# 🛡️ Awesome Customer IAM [Customer Identity & Access Management]
 
 > A curated list of the best resources, tools, libraries, and insights for building and scaling **Customer Identity and Access Management (CIAM)** systems.
 
-![Awesome CIAM badge](https://img.shields.io/badge/Awesome-CIAM-blue.svg?style=flat&logo=github)
+![Awesome Customer IAM badge](https://img.shields.io/badge/Awesome-Customer-IAM-blue.svg?style=flat&logo=github)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#-contributing)
 
