@@ -167,6 +167,7 @@ This repository helps developers, architects, and security engineers:
 
 - [Identiverse](https://identiverse.com/)
 - [IDPro](https://idpro.org/)
+- [LinkedIn Group](https://www.linkedin.com/groups/8555929/)
 - [KuppingerCole Events](https://www.kuppingercole.com/events)
 - [Reddit – r/IdentityManagement](https://www.reddit.com/r/IdentityManagement/)
 - Stack Overflow: Tags `openid-connect`, `saml`, `oauth-2.0`
