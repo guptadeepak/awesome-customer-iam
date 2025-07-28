@@ -53,6 +53,7 @@ This repository helps developers, architects, and security engineers:
 - [Auth0 CIAM Overview](https://auth0.com/learn/ciam/)
 - [Okta CIAM Explained](https://www.okta.com/customer-identity/)
 - [IAM vs CIAM – FusionAuth](https://www.fusionauth.io/blog/2020/01/28/ciam-vs-iam/)
+- [CIAM Vendors Comparison](https://compile7.org/compare/ciam)
 - Key concepts: identity lifecycle, consent, privacy, MFA, user-centric access, progressive profiling
 
 ---
