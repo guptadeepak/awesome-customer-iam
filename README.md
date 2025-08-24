@@ -152,6 +152,8 @@ This repository helps developers, architects, and security engineers:
 - [FusionAuth Expert Advice](https://fusionauth.io/learn/expert-advice/)
 - [IDPro Body of Knowledge](https://bok.idpro.org/)
 - [OpenID Foundation Workshops](https://openid.net/foundation/)
+- [CIAM Weekly Newsletter](http://ciamweekly.com/)
+- [IDPRO Body of Knowledge](https://bok.idpro.org/articles/)
 
 ---
 
