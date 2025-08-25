@@ -152,6 +152,8 @@ This repository helps developers, architects, and security engineers:
 - [FusionAuth Expert Advice](https://fusionauth.io/learn/expert-advice/)
 - [IDPro Body of Knowledge](https://bok.idpro.org/)
 - [OpenID Foundation Workshops](https://openid.net/foundation/)
+- [CIAM Weekly Newsletter](http://ciamweekly.com/)
+- [IDPRO Body of Knowledge](https://bok.idpro.org/articles/)
 
 ---
 
@@ -167,6 +169,7 @@ This repository helps developers, architects, and security engineers:
 ## 🌐 Identity Communities & Conferences
 
 - [Identiverse](https://identiverse.com/)
+- [AuthCon](https://www.authcon.io/)
 - [IDPro](https://idpro.org/)
 - [LinkedIn Group](https://www.linkedin.com/groups/8555929/)
 - [KuppingerCole Events](https://www.kuppingercole.com/events)
@@ -191,6 +194,7 @@ This repository helps developers, architects, and security engineers:
 - CIAM for Startups vs Enterprises
 - Build-Your-Own CIAM Blueprint (Coming Soon)
 - CIAM Security Design Patterns (Coming Soon)
+- [Auth Omnibus](https://authomnibus.com/)
 
 ---
 
