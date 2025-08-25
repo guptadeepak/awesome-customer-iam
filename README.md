@@ -169,6 +169,7 @@ This repository helps developers, architects, and security engineers:
 ## 🌐 Identity Communities & Conferences
 
 - [Identiverse](https://identiverse.com/)
+- [AuthCon](https://www.authcon.io/)
 - [IDPro](https://idpro.org/)
 - [LinkedIn Group](https://www.linkedin.com/groups/8555929/)
 - [KuppingerCole Events](https://www.kuppingercole.com/events)
@@ -193,6 +194,7 @@ This repository helps developers, architects, and security engineers:
 - CIAM for Startups vs Enterprises
 - Build-Your-Own CIAM Blueprint (Coming Soon)
 - CIAM Security Design Patterns (Coming Soon)
+- [Auth Omnibus](https://authomnibus.com/)
 
 ---
 
